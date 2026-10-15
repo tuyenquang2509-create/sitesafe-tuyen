@@ -65,7 +65,7 @@ Thay `SVxx` bằng mã sinh viên thực tế của em.
 ## 8. Link GitHub
 
 **Repository GitHub:**  
-https://github.com/tuyenquang2509-create/cse122-sitesafe-team01
+https://github.com/tuyenquang2509-create/sitesafe-tuyen
 
 Thư mục mã nguồn cá nhân cần có các thành phần phù hợp với dự án, ví dụ:
 
